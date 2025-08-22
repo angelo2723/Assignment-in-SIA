@@ -1,4 +1,4 @@
-# Assignment-in-SIA
+# Act-in-SIA
 When I heard we were taking System Integration and Architecture, I honestly wasn’t sure what to expect. But after thinking about it, I imagine it’s about how different technologies, like software and hardware, work together to create one functioning system. For example, how a website connects to a database, or how your phone syncs with your computer. I think this subject will help me understand how all these parts are connected behind the scenes and what it takes to make them run smoothly without problems.
 
 I also expect this subject to involve a lot of planning and design. The word architecture makes me think of blueprints and structurejust like in buildings, but for tech. So I imagine we’ll learn how to design the structure of systems before we actually build or connect them. That sounds challenging but interesting. It’s like figuring out the smartest way to build a strong foundation so everything works without crashing or slowing down.
